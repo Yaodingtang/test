@@ -1,3 +1,8 @@
 <?php
 
 phpinof();
+
+printf
+  
+  
+  
